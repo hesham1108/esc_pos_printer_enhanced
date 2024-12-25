@@ -7,8 +7,8 @@ environment:
   sdk: ">=3.2.0 <4.0.0"
 
 dependencies:
-  charset_converter: ^2.1.1
-  cupertino_icons: ^1.0.6
+  charset_converter:
+  cupertino_icons:
   esc_pos_printer_plus:
     path: ../
   esc_pos_utils_plus: 
@@ -18,7 +18,7 @@ dependencies:
   intl: ^0.18.1
   path_provider: ^2.1.1
   ping_discover_network_plus: ^0.0.1
-  qr_flutter: ^4.1.0
+  qr_flutter:
  
 dev_dependencies:
   flutter_lints: ^3.0.1
